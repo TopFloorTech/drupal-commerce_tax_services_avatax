@@ -1,0 +1,7 @@
+name = AvaTax Tax Service - Exemptions
+description = Extends Commerce Tax Services AvaTax allowing user to request sales tax exemptions
+package = Commerce (Tax Services)
+core = 7.x
+
+dependencies[] = commerce
+dependencies[] = commerce_tax_services_avatax
